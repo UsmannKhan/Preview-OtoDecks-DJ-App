@@ -21,9 +21,3 @@ Source code, JUCE project files, and the technical report live in a private repo
 ![Full OtoDecks UI with hot pink waveforms, two large rotary knobs, the crossfader, and the playlist below](./otodecks-full-ui.png)
 
 *The finished app. Hot pink waveforms at the top with a light-green playhead cursor, two decks with rotary speed knobs and vertical sliders for volume and position, dynamic loop buttons (this screenshot caught one in each state), a crossfader in pink at the bottom, and the playlist with per-track buttons to send a track to either deck.*
-
-## The look
-
-![Two decks showing the looping button in different states - "LOOPING OFF" on one, "LOOPING ON" on the other](./otodecks-loop-toggle.png)
-
-*The loop button toggles its own label rather than relying on a separate indicator light. Less screen real estate, more obvious state.*
